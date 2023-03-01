@@ -2,6 +2,9 @@
 
   
 __[Team]__ 👨🏻‍💻 <br>
+  `박유정`<br>
+  - [블로그📑](https://udadas2.tistory.com/)
+  - 목표🔥 : Effective Python, 핸즈온 머신러닝  <br>
   
   `박유현`<br>
   - [블로그📑](https://faceyourfear.tistory.com/)
