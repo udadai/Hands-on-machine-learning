@@ -16,10 +16,11 @@ __[Team]__ 👨🏻‍💻 <br>
   
   `정지민`<br>
   - [블로그📑](https://velog.io/@stopmin)
-  - 목표🔥 : Effective Python, 핸즈온 머신러닝, 데이터과학입문 <br>
+  - 목표🔥 : Effective Python, 핸즈온 머신러닝, 데이터과학입문 열심히 하기 <br>
   
   `홍진욱`<br>
   - [블로그📑](https://blog.naver.com/hju927)
+  - 목표🔥 : 머신러닝/딥러닝 개념 공부, 모델 익히기, 데이콘 순위권 <br>
   
    `정지윤`<br>
   - [블로그📑](https://velog.io/@enchantee/)
